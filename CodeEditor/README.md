@@ -1,14 +1,11 @@
-# Self-Edit: Fault-Aware Code Editor for Code Generation
-
-Accepted by ACL 2023
-
-
+# Fault-aware Code Editor
 
 This is a official implementation of Fault-aware Code Editor
 
 - We include the dataset process tool, the model code, the metric tool here.
-- We remove some source code files and config files containing personal information. So be careful! *There might be some small adjustments to the file structure on Github that could cause certain bugs. I will organize it when I have some free time later. If you find any issues, feel free to create an issue or send me an email.*
+- We remove some source code files and config files containing personal information.
 - We remove the edit dataset because it is too large to upload for review, but we provide the data process method. You can easily follow the steps.
+- **We will release the above files after review period on GitHub.**
 
 ## Benchmark Split
 
