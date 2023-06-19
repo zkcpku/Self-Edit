@@ -4,6 +4,8 @@ Accepted by ACL 2023
 
 Link to the paper: https://arxiv.org/abs/2305.04087
 
+Link to the poster:  [poster.pdf](poster.pdf) 
+
 
 This is a official implementation of Fault-aware Code Editor
 
